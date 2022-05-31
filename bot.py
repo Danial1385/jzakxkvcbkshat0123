@@ -16,8 +16,8 @@ import random
 import urllib
 import io
 
-bot = Bot("Raberto", auth="dpsborzqgwodrpjoxbnhbhuvfybeczui")
-target = "g0BbwFO0bdc8b25993d2b97afe8615be"
+bot = Bot("Raberto", auth="zalrvnrkqaihyfiscedqkcfhmiddsmyj")
+target = "g0Bgd4i0eb3b50f1f9c7f9a536c2dcee"
 bot.sendMessage(target, 'را‌برتو فعال شد.✅')
 # created By HiBye & ShayanHeidari(Snipe4Kill)(TG GAMES)(libs for Bahman Ahmadi)
 
